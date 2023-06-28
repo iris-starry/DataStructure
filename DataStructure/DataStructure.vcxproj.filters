@@ -69,5 +69,8 @@
     <ClCompile Include="RandomMazeCreateSearch.c">
       <Filter>소스 파일\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="recursiveBacktracking.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
