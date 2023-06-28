@@ -19,6 +19,12 @@
     <Filter Include="소스 파일\ch02">
       <UniqueIdentifier>{b1ac130a-6420-423b-ae21-4468291296db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch03">
+      <UniqueIdentifier>{71f9f94d-a48c-4816-ab41-807cf381907d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch04">
+      <UniqueIdentifier>{a3ba87ac-0fef-49ae-b958-cfc0f279c800}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EuclidAlgorithm.c">
@@ -36,11 +42,14 @@
     <ClCompile Include="PointerAndArray.c">
       <Filter>소스 파일\ch02</Filter>
     </ClCompile>
-    <ClCompile Include="LinkedList1.c">
-      <Filter>소스 파일\ch02</Filter>
-    </ClCompile>
     <ClCompile Include="LinkedList2.c">
-      <Filter>소스 파일\ch02</Filter>
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList1.c">
+      <Filter>소스 파일\ch03</Filter>
+    </ClCompile>
+    <ClCompile Include="stackArray.c">
+      <Filter>소스 파일\ch04</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
