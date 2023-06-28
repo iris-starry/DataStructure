@@ -54,5 +54,8 @@
     <ClCompile Include="stackLinkedList.c">
       <Filter>소스 파일\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="mazeSearch.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
