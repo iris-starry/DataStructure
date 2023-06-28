@@ -81,5 +81,8 @@
     <ClCompile Include="CircularQueueArray.c">
       <Filter>소스 파일\ch05</Filter>
     </ClCompile>
+    <ClCompile Include="LinearQueueLinkedList.c">
+      <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
