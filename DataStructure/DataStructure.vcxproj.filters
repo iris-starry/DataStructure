@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\ch04">
       <UniqueIdentifier>{a3ba87ac-0fef-49ae-b958-cfc0f279c800}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch05">
+      <UniqueIdentifier>{2df2c47c-8af0-40b0-9226-17fbee2ed493}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EuclidAlgorithm.c">
@@ -71,6 +74,9 @@
     </ClCompile>
     <ClCompile Include="recursiveBacktracking.c">
       <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearQueueArray.c">
+      <Filter>소스 파일\ch05</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
