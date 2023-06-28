@@ -13,16 +13,22 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\ch01">
+      <UniqueIdentifier>{b7f25627-9b4d-4fa6-995b-6f8b2bb6e6a5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PrimeNumber.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="EuclidAlgorithm.c">
+      <Filter>소스 파일\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="HanoiTowerTest.c">
+      <Filter>소스 파일\ch01</Filter>
     </ClCompile>
     <ClCompile Include="magicCard.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\ch01</Filter>
     </ClCompile>
-    <ClCompile Include="EuclidAlgorithm.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="PrimeNumber.c">
+      <Filter>소스 파일\ch01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
