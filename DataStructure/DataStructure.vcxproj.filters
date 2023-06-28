@@ -51,5 +51,8 @@
     <ClCompile Include="stackArray.c">
       <Filter>소스 파일\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="stackLinkedList.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
