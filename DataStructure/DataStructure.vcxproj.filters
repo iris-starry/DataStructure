@@ -63,5 +63,8 @@
     <ClCompile Include="MazeRecursiveSearch.c">
       <Filter>소스 파일\ch04</Filter>
     </ClCompile>
+    <ClCompile Include="MultiMazeCreateAllSearch.c">
+      <Filter>소스 파일\ch04</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
