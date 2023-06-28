@@ -36,5 +36,8 @@
     <ClCompile Include="PointerAndArray.c">
       <Filter>소스 파일\ch02</Filter>
     </ClCompile>
+    <ClCompile Include="LinkedList1.c">
+      <Filter>소스 파일\ch02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
