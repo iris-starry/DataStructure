@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\ch01">
       <UniqueIdentifier>{b7f25627-9b4d-4fa6-995b-6f8b2bb6e6a5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch02">
+      <UniqueIdentifier>{b1ac130a-6420-423b-ae21-4468291296db}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EuclidAlgorithm.c">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="PrimeNumber.c">
       <Filter>소스 파일\ch01</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerAndArray.c">
+      <Filter>소스 파일\ch02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
