@@ -21,5 +21,8 @@
     <ClCompile Include="magicCard.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="EuclidAlgorithm.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
