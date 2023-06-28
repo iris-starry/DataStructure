@@ -18,5 +18,8 @@
     <ClCompile Include="PrimeNumber.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="magicCard.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
