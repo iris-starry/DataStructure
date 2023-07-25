@@ -28,6 +28,15 @@
     <Filter Include="소스 파일\ch05">
       <UniqueIdentifier>{2df2c47c-8af0-40b0-9226-17fbee2ed493}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch06">
+      <UniqueIdentifier>{cb5a711d-34a4-4b74-b5a7-929da616c405}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch07">
+      <UniqueIdentifier>{62f09998-b779-4ac1-b6f9-5b80ddf77d29}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ch08">
+      <UniqueIdentifier>{2cbf63ac-46f5-4bc8-9fbb-94c1d094a25f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EuclidAlgorithm.c">
@@ -83,6 +92,30 @@
     </ClCompile>
     <ClCompile Include="LinearQueueLinkedList.c">
       <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="LeftRightBalancedTree.c">
+      <Filter>소스 파일\ch06</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.c">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="graphLinkedList.c">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="graphArray.c">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="PrimMinSpanningTree.c">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="KruskalMinSpanningTree.c">
+      <Filter>소스 파일\ch07</Filter>
+    </ClCompile>
+    <ClCompile Include="levelOrderTraversal.c">
+      <Filter>소스 파일\ch05</Filter>
+    </ClCompile>
+    <ClCompile Include="treeTraversal1.c">
+      <Filter>소스 파일\ch06</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
