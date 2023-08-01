@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void InsertionSort(int a[], int n) {
+void ShellSort(int a[], int n) {
 	int i, j, key;
 
 	for (i = 1; i < n; i++) {
@@ -20,7 +20,7 @@ int main(void) {
 	printf("정렬 전: ");
 	for (i = 0; i < n; i++) printf("%d  ", a[i]);
 
-	InsertionSort(a, n);
+	ShellSort(a, n);
 
 	printf("\n삽입 정렬 후 : ");
 	for (i = 0; i < n; i++) printf("%d  ", a[i]);
