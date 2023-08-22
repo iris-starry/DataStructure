@@ -123,5 +123,8 @@
     <ClCompile Include="QuickSort1.c">
       <Filter>소스 파일\ch08</Filter>
     </ClCompile>
+    <ClCompile Include="QuickSort2.c">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
