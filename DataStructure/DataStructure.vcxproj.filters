@@ -129,5 +129,8 @@
     <ClCompile Include="quickSort_stackOverflow_test.c">
       <Filter>소스 파일\ch08</Filter>
     </ClCompile>
+    <ClCompile Include="HeapSort.c">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
