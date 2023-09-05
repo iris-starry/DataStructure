@@ -132,5 +132,11 @@
     <ClCompile Include="HeapSort.c">
       <Filter>소스 파일\ch08</Filter>
     </ClCompile>
+    <ClCompile Include="MergeSort.c">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="RadixSort.c">
+      <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
