@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\ch08">
       <UniqueIdentifier>{2cbf63ac-46f5-4bc8-9fbb-94c1d094a25f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ch09">
+      <UniqueIdentifier>{91f4f0ef-59d6-415b-a258-8a615f65a8cc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="EuclidAlgorithm.c">
@@ -140,6 +143,9 @@
     </ClCompile>
     <ClCompile Include="SortExecutionTime.c">
       <Filter>소스 파일\ch08</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary Search.c">
+      <Filter>소스 파일\ch09</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
