@@ -150,5 +150,8 @@
     <ClCompile Include="interpolationSearch.c">
       <Filter>소스 파일\ch09</Filter>
     </ClCompile>
+    <ClCompile Include="fibonacciSearch.c">
+      <Filter>소스 파일\ch09</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
